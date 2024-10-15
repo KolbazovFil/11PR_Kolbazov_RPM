@@ -97,7 +97,6 @@ namespace ConsoleApp
             Console.WriteLine($"Ссылки в тексте:");
         }
     }
-
     internal class Program
     {
         static void Main(string[] args)
@@ -160,8 +159,6 @@ namespace ConsoleApp
             Console.ReadLine();
         }
     }
-
-
 
     //Задание 4: Напишите регулярное выражение для замены всех вхождений чисел в строке на слово &quot; NUMBER&quot;.
 
